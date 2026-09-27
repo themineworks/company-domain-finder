@@ -1,0 +1,15 @@
+{
+  "name": "company-domain-finder",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Resolve a company name to its official website, not the first search result. Python, Node.js and cURL clients for the Company Domain Finder on Apify, pay per result.",
+  "main": "company_domain_finder.mjs",
+  "scripts": {
+    "start": "node company_domain_finder.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/company-domain-finder/"
+}
