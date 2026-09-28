@@ -5,7 +5,7 @@ Resolve a company name to its official website domain, filtering out Wikipedia, 
 **Run it on Apify:** [apify.com/themineworks/company-domain-finder](https://apify.com/themineworks/company-domain-finder)
 **Docs, FAQ and pricing:** [themineworks.com/actors/company-domain-finder](https://themineworks.com/actors/company-domain-finder/)
 
-**Price:** $0.01 per companies on Apify's free plan, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $0.015 per companies on Apify's higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -109,7 +109,7 @@ It filters out known non-company-host domains before picking the top result, Wik
 
 ### How much does the Company Domain Finder cost?
 
-$0.01 per companies on Apify's free plan, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $0.015 per companies on Apify's higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
